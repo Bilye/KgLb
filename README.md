@@ -1,4 +1,4 @@
-#KgLb
+# KgLb
 
 KgLb es un programa que realiza conversiones entre unidades de peso, de kilogramos a libras y viceversa
 
